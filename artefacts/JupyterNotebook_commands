@@ -1,0 +1,8 @@
+Extract Required Files:
+
+The following files need to be extracted from Jupyter Notebook:
+
+artefacts/movie_list.pkl
+artefacts/similarity.pkl
+
+Run the commands in: /jupyter notebook/Recommender system.ipynb
